@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Ankit.</h2>
+<h2> Hey there! I'm Harsh.</h2>
 
 
 
@@ -66,16 +66,15 @@
 
 <p align="center">
 	
-<a href="https://www.linkedin.com/in/ankitmishra1106/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20mishra-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ankitmishra.0.0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ankitmishra.0.0-blue?style=flat-square&logo=instagram"></a>
-<a href="https://hashnode.com/@ankitmishraexe"><img alt="Instagram" src="https://img.shields.io/badge/Hashnode-ankitmishraexe-blue?style=flat-square&logo=hashnode"></a>
-<a href="https://twitter.com/AnkitMishraexe"><img alt="Instagram" src="https://img.shields.io/badge/twitter-AnkitMishraexe-blue?style=flat-square&logo=twitter"></a>
-<a href="ankitmrmishra1118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitmrmishra1118@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/_harsh.tiwari__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_harsh.tiwari__-blue?style=flat-square&logo=instagram"></a>
+
+<a href="https://twitter.com/harsh18201"><img alt="Twitter" src="https://img.shields.io/badge/twitter-harsh18201-blue?style=flat-square&logo=twitter"></a>
+<a href="harsh.official1802@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-harsh.official1802@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
 
-⭐️ From [ANKIT MISHRA](https://github.com/ankitmrmishra)
+⭐️ From [Harsh Tiwari](https://github.com/harshtiwariexe)
 
 <!---
 ankitmrmishra/ankitmrmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
