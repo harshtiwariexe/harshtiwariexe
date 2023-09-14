@@ -1,82 +1,34 @@
+<h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshtiwariexe&label=Profile%20views&color=0e75b6&style=flat" alt="harshtiwariexe" /> </p>
 
-<h2> Hey there! I'm Harsh.</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshtiwariexe" alt="harshtiwariexe" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/harshexee" target="blank"><img src="https://img.shields.io/twitter/follow/harshexee?logo=twitter&style=for-the-badge" alt="harshexee" /></a> </p>
 
+- 🔭 I’m currently working on [Book Harbor](https://github.com/harshtiwariexe/Book-Harbor)
 
+- 🌱 I’m currently learning **MERN Stack**
 
-![Visitor Count](https://profile-counter.glitch.me/{harshtiwariexe}/count.svg)
+- 📝 I regularly write articles on [hashnode.com/harshexe](hashnode.com/harshexe)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- 💬 Ask me about **MERN**
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics and Communication Engineering at Chandigarh Engineering College.
-- 🌱 &nbsp; Learning more about Full stack web development, Data Structure and Algorithm.
-<!--- ✍️ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@ankitmishraexe">Ankit Mishra's Blog</a>
+- 📫 How to reach me **harsh.official1802@gmail.com**
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
- ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
-<!-- - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<!--   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) -->
-<!-- - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
- -->
-<br/>
-<img src="https://img.shields.io/github/followers/harshtiwariexe?style=social"></img>
-
-[![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshtiwariexe&theme=dracula)](https://github.com/harshtiwarexe/github-readme-activity-graph)
-
-<a href="https://github.com/harshtiwariexe">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshtiwariexe&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshtiwariexe&theme=tokyonight" />
-	 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshtiwariexe&theme=tokyonight&layout=compact" />
-
-</a>
----
-<br/>
-
-
-##  Recent articles on Hashnode
-
- 
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-	
-<a href="https://www.instagram.com/_harsh.tiwari__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_harsh.tiwari__-blue?style=flat-square&logo=instagram"></a>
-
-<a href="https://twitter.com/harsh18201"><img alt="Twitter" src="https://img.shields.io/badge/twitter-harsh18201-blue?style=flat-square&logo=twitter"></a>
-<a href="harsh.official1802@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-harsh.official1802@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harshexee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshexee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshtiwariexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshtiwariexe" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshexe" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-⭐️ From [Harsh Tiwari](https://github.com/harshtiwariexe)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshtiwariexe&show_icons=true&locale=en&layout=compact" alt="harshtiwariexe" /></p>
 
-<!---
-ankitmrmishra/ankitmrmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshtiwariexe&show_icons=true&locale=en" alt="harshtiwariexe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshtiwariexe&" alt="harshtiwariexe" /></p>
