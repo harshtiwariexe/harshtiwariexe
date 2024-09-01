@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Harsh Tiwari</h1>
 <h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshtiwariexe&label=Profile%20views&color=0e75b6&style=flat" alt="harshtiwariexe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshtiwariexe" alt="harshtiwariexe" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/harshexee" target="blank"><img src="https://img.shields.io/twitter/follow/harshexee?logo=twitter&style=for-the-badge" alt="harshexee" /></a> </p>
 
 - 🔭 I’m currently working on [Stock Exchange](https://github.com/harshtiwariexe/Citadel-Stock-Exchange)
