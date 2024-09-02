@@ -1,25 +1,26 @@
-<h1 align="center">Hi, I'm Harsh Tiwari</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p align="left"> <a href="https://twitter.com/harshexee" target="blank"><img src="https://img.shields.io/twitter/follow/harshexee?logo=twitter&style=for-the-badge" alt="harshexee" /></a> </p>
+<h1>Hi 👋</h1>
+<h2>I'm Harsh Tiwari</h2>
 
-- 🔭 I’m currently working on [Stock Exchange](https://github.com/harshtiwariexe/Citadel-Stock-Exchange)
+<h4 >
+  I like making, breaking, experimenting, developing and learning things about
+  the web.
+</h4>
 
-- 📫 How to reach me **harsh.official1802@gmail.com**
+<h2>My GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=harshtiwariexe&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
+<h2>Languages</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,go,bash,python)](https://skillicons.dev)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshexee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshexee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshtiwariexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshtiwariexe" height="30" width="40" /></a>
-<a href="https://medium.com/@harsh.official1802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harsh.official1802" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshexe" height="30" width="40" /></a>
-</p>
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,react,nextjs,tailwindcss)](https://skillicons.dev)
 
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshtiwariexe&show_icons=true&locale=en&layout=compact" alt="harshtiwariexe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshtiwariexe&show_icons=true&locale=en" alt="harshtiwariexe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshtiwariexe&" alt="harshtiwariexe" /></p>
+<h2>Tools</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,linux,githubactions)](https://skillicons.dev)
