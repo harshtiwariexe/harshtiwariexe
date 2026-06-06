@@ -1,87 +1,163 @@
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
-<h3 align="center">Full Stack Developer • Systems Enthusiast • DSP + ML Explorer</h3>
+
+<h3 align="center">
+Full Stack Developer • Systems Programmer • Computer Engineering Enthusiast
+</h3>
 
 <p align="center">
-I enjoy building systems from scratch — breaking them, optimizing them, and learning deeply how things work under the hood.
+I enjoy building software from the ground up — from frontend applications and scalable backends to networking, distributed systems, and performance-focused C++ projects.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 ECE Graduate transitioning into **Software Development**
-- 💻 Strong in **Full Stack Development + Systems Programming**
-- ⚙️ Currently exploring **DSP, Real-time Systems, and ML**
-- 🧠 Love working close to the metal (performance, optimization, architecture)
-- 🔨 Building projects in **Web, Audio Processing, and Distributed Systems**
+- 🎓 Electronics & Communication Engineering Graduate
+- 💻 Full Stack Developer with strong backend fundamentals
+- ⚡ Interested in Systems Programming, Networking, and Distributed Systems
+- 🧠 Strong foundation in Data Structures & Algorithms
+- 🔨 Love building projects that teach how systems work internally
 
 ---
 
-## 🧠 Current Focus
+## 🎯 Current Focus
 
-- 🎧 Real-time Audio Processing (FFT, STFT, Source Separation)
-- ⚡ High-performance C++ systems (low-latency applications)
-- 🌐 Scalable backend systems (WebSockets, Redis, SQL)
-- 🧩 System design & architecture
+- ⚙️ Modern C++ and high-performance applications
+- 🌐 Distributed systems and real-time communication
+- 🔄 Event-driven architectures
+- 🚀 Backend engineering and scalability
+- 🖥️ Computer networking and low-level systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,bash,python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,ts,js,python,bash" />
 </p>
 
-### ⚡ Frameworks & Libraries
+### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,express,fastapi,react,nextjs,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
 </p>
 
-### 🗄️ Databases & Caching
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongo" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-### 🧰 Tools & Environment
+### Databases & Infrastructure
+
 <p>
-  <img src="https://skillicons.dev/icons?i=neovim,vim,git,docker,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vim,neovim,githubactions" />
 </p>
 
 ---
 
-## 🧪 Projects Highlight
+## 🚧 Featured Projects
 
-### 🎧 Real-Time Audio Source Separation
-- Built a **U-Net based spectrogram model** for separating vocals, drums, and bass
-- Deployed using **ONNX + C++ (JUCE VST3 plugin)**
-- Achieved **<10ms latency** for real-time inference
-- Implemented **custom FFT, overlap-add, and latency compensation**
+### 💸 Payment Application
 
-### 💸 Web-based Payment System
-- Developed a **secure money transfer system**
-- Tech: Next.js, TypeScript, PostgreSQL, Redis
-- Features: authentication, transactions, scalability
+A digital payment platform built with modern web technologies.
 
-### 🔄 Crypto Exchange (In Progress)
-- Building a **real-time asset swapping platform**
-- Using **WebSockets, Redis, SQL**
-- Focus on **low-latency order matching engine**
+**Tech Stack**
+- Next.js
+- TypeScript
+- PostgreSQL
+- Redis
+
+**Highlights**
+- User authentication
+- Money transfer workflows
+- Transaction management
+- Scalable architecture
+
+---
+
+### 🔄 Crypto Exchange
+
+Real-time cryptocurrency exchange platform.
+
+**Tech Stack**
+- TypeScript
+- PostgreSQL
+- Redis
+- WebSockets
+
+**Highlights**
+- Live market updates
+- Real-time order processing
+- Asset swapping engine
+- Low-latency architecture
+
+---
+
+### 🌐 Window & Door E-Commerce Platform
+
+Full-stack e-commerce system with separate customer and admin workflows.
+
+**Highlights**
+- Product management
+- Supplier management
+- Order simulation
+- Invoice generation
+- Authentication system
+
+---
+
+### ⚙️ Systems & Networking Projects
+
+Projects focused on understanding software closer to the hardware.
+
+**Topics**
+- HTTP servers in C/C++
+- Socket programming
+- Networking fundamentals
+- Concurrency
+- Performance optimization
+
+---
+
+## 📚 Interests
+
+- Systems Programming
+- Backend Engineering
+- Distributed Systems
+- Networking
+- Databases
+- Software Architecture
+- Open Source
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshtiwariexe&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshtiwariexe&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshtiwariexe&theme=dark" />
 </p>
 
 ---
 
-## 📈 What I Care About
+## 🤝 Connect With Me
 
-- ⚡ Performance & efficiency
-- 🧠 Deep understanding over surface-level usage
-- 🧩 Clean architecture & modular systems
-- 🔍 Debugging and problem solving
+<p>
+  <a href="https://github.com/harshtiwariexe">GitHub</a>
+</p>
 
+---
+
+> "Understanding how things work is often more valuable than simply using them."
